@@ -1,1 +1,1 @@
-# Comunicacao Serial COM
+# Comunicação Serial COM Java
